@@ -1,4 +1,4 @@
-;(function($){
+(function($){
 
 	var Carousel = function(poster){
 			var self = this;
